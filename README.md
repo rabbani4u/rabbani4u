@@ -1,7 +1,7 @@
 [![MasterHead]()](https://rabbani4u.io)
 <h1 align="center">Hi 👋, I'm Golam Rabbani</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif")>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/5f/4e/dd/5f4edd71aa7de2b15667ab5b2bf2bb2c.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbani4u&label=Profile%20views&color=0e75b6&style=flat" alt="rabbani4u" /> </p>
 
