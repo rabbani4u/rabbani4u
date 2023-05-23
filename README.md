@@ -14,7 +14,7 @@
 
 🤝 I’m looking for help with **people for their professional growth.**
 
-💬 Ask me about **MEARN Stack and Vue**
+💬 Ask me about **MEARN Stack and Angular**
 
 📫 How to reach me **iu.rabbani@gamil.com**
 
@@ -25,13 +25,13 @@
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">|<img title="VueJS" alt="VueJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">|<img title="React Native" alt="React Native" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 |--|--|--|--|--|
 
-**Front-End**
+**Frontend Technology Proficiency**
 
 <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 |--|--|--|--|
 <img title="HTML" alt="HTML" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://mui.com/static/logo.png">
 
-**Back-End**
+**BackendTechnology Proficiency**
 
 <img title="HTML" alt="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlF7tSb8n6Q1yvNoW1Qyon4j507hDrZN1WQ&usqp=CAU">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
 |--|--|--|--|
