@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQHIRA03sa5xuA/profile-displaybackgroundimage-shrink_350_1400/0/1689935166009?e=1701302400&v=beta&t=d4TXSgCJQqJjxkvF7FWPDcQ35h-FK_OSv5_6guNXMgM)](https://rabbani4u.io)
+[![MasterHead]()](https://rabbani4u.io)
 <h1 align="center">Hi 👋, I'm Golam Rabbani</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
