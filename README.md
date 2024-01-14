@@ -33,8 +33,8 @@
 
 **BackendTechnology Proficiency**
 
-<img title="HTML" alt="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlF7tSb8n6Q1yvNoW1Qyon4j507hDrZN1WQ&usqp=CAU">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
-|--|--|--|--|
+<img title="HTML" alt="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlF7tSb8n6Q1yvNoW1Qyon4j507hDrZN1WQ&usqp=CAU">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">|<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png">
+|--|--|--|--|--|--|
 
 **Cloud**
 
