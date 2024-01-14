@@ -14,11 +14,11 @@
 
 🤝 I’m looking for help with **people for their professional growth.**
 
-💬 Ask me about **MEARN Stack and Angular**
+💬 Ask me about **Web Development and Database**
 
 📫 How to reach me **iu.rabbani@gamil.com**
 
-⚡ Fun fact **I'm Funny..😊**
+⚡ Fun fact **I'm Funny.😊**
 
 **Programming Languages**
 
