@@ -16,7 +16,7 @@
 
 💬 Ask me about **Web Development and Database**
 
-📫 How to reach me **iu.rabbani@gamil.com**
+📫 How to reach me **rabbani.iu31@gamil.com**
 
 ⚡ Fun fact **I'm Funny.😊**
 
