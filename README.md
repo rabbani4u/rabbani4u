@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on **Institute of Global Professionals.( KPRTech Ltd.)**
 
-🌱 I’m currently learning **Redux, Next.js**
+🌱 I’m currently learning **JavaScript and React**
 
 🤝 I’m looking for help with **people for their professional growth.**
 
